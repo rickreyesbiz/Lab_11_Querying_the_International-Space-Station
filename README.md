@@ -1,0 +1,1 @@
+This lab uses the OpenNotify API—an interface that lets programs request and receive structured data from online services—to retrieve real‑time information about the International Space Station through simple HTTP calls that return JSON responses easily handled with Python’s requests and json libraries.
